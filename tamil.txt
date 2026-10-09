@@ -1,0 +1,7 @@
+1
+
+name : jailer 2
+
+director : Nelson
+
+releasing : 2026
